@@ -1,0 +1,1 @@
+print("v \ne \nr \nt \ni \nc \na \nl")

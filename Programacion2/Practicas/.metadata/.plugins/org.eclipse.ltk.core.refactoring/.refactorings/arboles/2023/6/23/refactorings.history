@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Change method &apos;private int practica6.ABInt3.encontrarMinimo(NodoInt nodo)&apos; to &apos;private int encontrarMinimo(NodoInt nodo)&apos;&#x0D;&#x0A;- Original project: &apos;arboles&apos;&#x0D;&#x0A;- Original element: &apos;practica6.ABInt3.encontrarMinimo(...)&apos;&#x0D;&#x0A;- Changed parameters:&#x0D;&#x0A;     Nodo nodo" delegate="false" deprecate="true" description="Change method &apos;encontrarMinimo&apos;" flags="589826" id="org.eclipse.jdt.ui.change.method.signature" input="/src&lt;practica6{ABInt3.java[ABInt3~encontrarMinimo~QNodo;" name="encontrarMinimo" parameter1="Nodo nodo 0 NodoInt nodo false" stamp="1686009478362" version="1.0"/>
+</session>
